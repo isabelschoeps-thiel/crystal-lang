@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="78B4A278-1A89-4CF3-9AF3-6B671FF91C5F" src="https://github.com/user-attachments/assets/906cbbb0-3580-4675-b5fd-e309ce4e81a8" />
+
+
 from PIL import Image
 import numpy as np
 
